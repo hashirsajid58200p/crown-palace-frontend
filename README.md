@@ -4,7 +4,7 @@ A modern and responsive frontend design for **Crown Palace**, a luxury hotel con
 This project is built using **HTML5** and **CSS3**, showcasing an elegant UI design with multiple sections.
 
 ## 🌐 Live Demo
-🔗 [View Crown Palace Website](https://hashirsajid58200p.github.io/crown-palace-frontend/)
+🔗 [View Crown Palace](https://hashirsajid58200p.github.io/crown-palace-frontend/)
 
 ## 👀 Preview
 ![Crown Palace Preview](preview.png)
